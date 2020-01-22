@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5 {
 
 body{
 	padding:10%;
-	margin:5%;
+	margin:auto;
 }
 
 
@@ -81,8 +81,9 @@ nav a{
 .innovate{
 	border: 2px solid black;
 	display:inline-block;
-	font-size: large;
-	font
+	font-size: 48px;
+	widows: 50%;
+	text-align: center;
 
 }
 
@@ -90,15 +91,19 @@ nav a{
 .start{
 	border:2px solid black;
 	color:black;
-	padding: 5px 20px;
-	margin: auto;
 	display: inline-block;
 	text-align: center;
+	font-size:30px;
 }
 
 .circle{
 	display:inline-block;
 	border: 2px solid black;
+	width:48%;
+}
+
+.innercircle{
+	margin-right: auto;
 }
 
 .paragraph{
@@ -117,13 +122,12 @@ nav a{
 .paragraph .paragraphtwo{
 	display:inline-block;
 	width:49%;
-	margin:auto;
+	margin:auto; 
 }
 
-.banner{
+.middle-img{
 	padding-top:30px;
-	border:2px solid black;
-
+	width:100%;
 
 }
 
