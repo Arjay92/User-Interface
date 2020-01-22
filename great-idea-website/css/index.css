@@ -81,6 +81,8 @@ nav a{
 .innovate{
 	border: 2px solid black;
 	display:inline-block;
+	font-size: large;
+	font
 
 }
 
@@ -89,13 +91,14 @@ nav a{
 	border:2px solid black;
 	color:black;
 	padding: 5px 20px;
-	margin: 5px;
+	margin: auto;
 	display: inline-block;
 	text-align: center;
 }
 
-.img circle{
+.circle{
 	display:inline-block;
+	border: 2px solid black;
 }
 
 .paragraph{
@@ -117,8 +120,10 @@ nav a{
 	margin:auto;
 }
 
-.wideimg{
-	padding-top:40px;
+.banner{
+	padding-top:30px;
+	border:2px solid black;
+
 
 }
 
@@ -146,4 +151,21 @@ nav a{
 	display: inline-block;
 	width:33%;
 	margin:auto;
+}
+.ending{
+	padding-top:30px;
+}
+
+
+.info{
+	border:2px solid black;
+	display: inline-block;
+	width: 25%;
+	padding:30px;
+}
+
+.copyright{
+	text-align: center;
+	padding-bottom: 150px;
+	padding-top:30px;
 }
