@@ -85,6 +85,7 @@ nav a{
 	widows: 50%;
 	text-align: center;
 
+
 }
 
 
@@ -98,12 +99,13 @@ nav a{
 
 .circle{
 	display:inline-block;
-	border: 2px solid black;
-	width:48%;
+	width:50%;
+	padding-top: 30px;
 }
 
 .innercircle{
-	margin-right: auto;
+	margin-left:80%; 
+	display: inline-block;
 }
 
 .paragraph{
