@@ -79,14 +79,16 @@ nav a{
 }
 
 .innovate{
-	border: 2px solid black;
 	display:inline-block;
-	font-size: 48px;
-	widows: 50%;
+	font-size: 80px;
+	width: 38%;
 	text-align: center;
-
+	padding-bottom:50px;
+	margin-left:5%;
 
 }
+
+
 
 
 .start{
@@ -94,18 +96,26 @@ nav a{
 	color:black;
 	display: inline-block;
 	text-align: center;
-	font-size:30px;
+	font-size:21px;
+	padding: 5px 30px 5px 30px;
+}
+
+.start:hover{
+	background-color: grey;
 }
 
 .circle{
 	display:inline-block;
 	width:50%;
-	padding-top: 30px;
+	padding-top:150px;
+	padding-bottom:150px;
+
 }
 
 .innercircle{
-	margin-left:80%; 
 	display: inline-block;
+	width:80%;
+	margin-left:25%;
 }
 
 .paragraph{
@@ -130,6 +140,7 @@ nav a{
 .middle-img{
 	padding-top:30px;
 	width:100%;
+	letter-spacing:10%;
 
 }
 
